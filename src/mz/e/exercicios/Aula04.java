@@ -30,15 +30,13 @@ public class Aula04 {
 
         double v=05;
 
-        String NomeAluno;
-        NomeAluno="Joao";  //Por melhorar
+        String NomeAluno=("Joao");  //Por melhorar
 
         int idadealuno=18;
 
-        String Jõao; 
-        Jõao =" Nome Completo"; //Por melhorar
+        String Jõao = ("Nome do Aluno");  //Por melhorar
         
-        int Intenger=2; //por melhorar
+        int valor=2;   //por melhorar
 
         double valor_pago=1; //por melhorar
 
@@ -54,9 +52,8 @@ public class Aula04 {
         
         Double salario;
         
-        String MEU_NOME ;
-             MEU_NOME   = "Esse é o meu nome";  //Por melhorar
+        String MEU_NOME = ("Joao");          //Por melhorar
         
-         long numeroDaConta = 1234789123456789;    
+         long numeroDaConta = 1234789123;    
     }
 }
