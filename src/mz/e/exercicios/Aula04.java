@@ -28,17 +28,17 @@ public class Aula04 {
 
         boolean zz=true;
 
-        double v=0,5,
+        double v=05;
 
-        String NomeAluno="Joao"
+        String NomeAluno="Joao";
 
-        int idade.aluno=18;
+        int idadealuno=18;
 
         String Jõao;
         
         int Intenger=2;
 
-        double valor_pago=true;
+        double valor_pago=1;
 
         int numero1=2,2;
 
