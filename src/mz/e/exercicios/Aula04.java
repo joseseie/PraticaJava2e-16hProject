@@ -32,7 +32,7 @@ public class Aula04 {
 
         double v = 0.5d;
 
-        String nome2 = "Joao"; //por melhorar
+        String nome2 = "Joao"; 
 
         int idade = 18; 
 
@@ -56,7 +56,7 @@ public class Aula04 {
         
         String mensagem = "Esse é o meu nome"; 
         
-        conta = 123456789123456789L ; //por melhorar
+        conta = 123456789123456789L ; 
         
     }
 }
