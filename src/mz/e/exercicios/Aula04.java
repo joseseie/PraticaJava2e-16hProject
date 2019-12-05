@@ -18,7 +18,7 @@ public class Aula04 {
 
         int numero=1;
 
-        String um ="um";
+        String um ="um"; //Por melhorar
 
         float x=02;
 
@@ -30,11 +30,11 @@ public class Aula04 {
 
         double v=05;
 
-        String NomeAluno="Joao";
+        String NomeAluno="Joao";  //Por melhorar
 
         int idadealuno=18;
 
-        String Jõao;
+        String Jõao;  //Por melhorar
         
         int Intenger=2;
 
@@ -42,7 +42,7 @@ public class Aula04 {
 
         int numero1=22;
 
-        boolean Valr=true;
+        boolean Valr=true;  //Por melhorar
 
         int integer = 10;
         
@@ -52,7 +52,7 @@ public class Aula04 {
         
         Double salario;
         
-        String MEU_NOME = "Esse é o meu nome";
+        String MEU_NOME = "Esse é o meu nome";  //Por melhorar
         
          long numeroDaConta = 1234789;    
     }
