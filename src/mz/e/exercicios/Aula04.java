@@ -16,9 +16,9 @@ public class Aula04 {
         // 1. Analise as declaracoes e inicializacoess de variavies a baixo e faca alguma correcao se necessario
 
 
-        int numero="um";
+        int numero=1;
 
-        string 1 ="um";
+        String um ="um";
 
         float x="0.2":
 
