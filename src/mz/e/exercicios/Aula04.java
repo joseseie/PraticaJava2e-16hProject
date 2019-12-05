@@ -10,9 +10,7 @@ package mz.e.exercicios;
  * @author Adriano Uaeca
  * @author Moisés Matsinhe
  */
-public class Aula04 {
-    public static long conta ; //por melhorar
-     
+public class Aula04 {     
     
     public static void main(String[] args) {
         // 1. Analise as declaracoes e inicializacoess de variavies a baixo e faca alguma correcao se necessario
@@ -42,7 +40,7 @@ public class Aula04 {
 
         boolean pagou = true;
 
-        double numero1 = 2.2d; 
+        double numero1 = 2.2; 
 
         int valor = 66 ; 
 
@@ -52,11 +50,11 @@ public class Aula04 {
         
         char c = 'c';
         
-        double salario = 1000.0d; 
+        double salario = 1000.0; 
         
         String mensagem = "Esse é o meu nome"; 
         
-        conta = 123456789123456789L ; 
+        long conta = 123456789123456789L ; 
         
     }
 }
