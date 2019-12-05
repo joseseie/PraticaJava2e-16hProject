@@ -44,9 +44,9 @@ public class Aula04 {
 
         boolean Valr=true;
 
-        Integer int = 10
+        int integer = 10;
         
-        char char = 'K'
+        char cha = 'K';
         
         char char;
         
