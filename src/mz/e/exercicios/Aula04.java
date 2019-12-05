@@ -24,7 +24,7 @@ public class Aula04 {
 
         String z="nome";   // VAriavel X ja foi definida por isso troquei
 
-        string .ab.com ="site";
+        String abcom ="site";
 
         boolean z="true";
 
