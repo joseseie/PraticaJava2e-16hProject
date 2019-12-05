@@ -52,8 +52,8 @@ public class Aula04 {
         
         Double salario;
         
-        String MEU_NOME = 'Esse é o meu nome'
+        String MEU_NOME = "Esse é o meu nome";
         
-        public long numeroDaConta = 123456789123456789;    
+         long numeroDaConta = 1234789;    
     }
 }
