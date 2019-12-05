@@ -20,7 +20,7 @@ public class Aula04 {
 
         String um ="um";
 
-        float x="0.2":
+        float x=02;
 
         string x='nome';
 
