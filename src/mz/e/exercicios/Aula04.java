@@ -26,7 +26,7 @@ public class Aula04 {
 
         String abcom ="site";
 
-        boolean z="true";
+        boolean zz=true;
 
         double v=0,5,
 
