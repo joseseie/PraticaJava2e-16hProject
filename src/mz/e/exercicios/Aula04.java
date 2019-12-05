@@ -24,7 +24,7 @@ public class Aula04 {
 
         String y = "nome";
 
-        String abcom = "site"; //por melhorar
+        String abcom = "site"; 
 
         boolean z = true;
 
@@ -32,7 +32,7 @@ public class Aula04 {
 
         String NomeProprio = "Joao"; //por melhorar
 
-        int idade = 18; //por melhorar
+        int idade = 18; 
 
         String nome = "Jõao";
         
@@ -52,8 +52,8 @@ public class Aula04 {
         
         double salario = 1000.0d; 
         
-        String mensagem = "Esse é o meu nome"; //por melhorar
+        String mensagem = "Esse é o meu nome"; 
         
-        double conta = 123456789123456789d ; //por melhorar
+        public long conta = 123456789123456789d ; //por melhorar
     }
 }
