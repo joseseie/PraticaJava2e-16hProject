@@ -50,7 +50,7 @@ public class Aula04 {
         
         char charr = 'm';
         
-        Doubles salario.
+        Double salario;
         
         String MEU_NOME = 'Esse é o meu nome'
         
