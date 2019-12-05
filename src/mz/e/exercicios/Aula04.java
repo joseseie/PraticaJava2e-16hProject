@@ -16,44 +16,44 @@ public class Aula04 {
         // 1. Analise as declaracoes e inicializacoess de variavies a baixo e faca alguma correcao se necessario
 
 
-        int numero="um";
+        int numero = 1;
 
-        string 1 ="um";
+        String um = "um";
 
-        float x="0.2":
+        float x = 0.2f;
 
-        string x='nome';
+        String y = "nome";
 
-        string .ab.com ="site";
+        String _ab_com = "site";
 
-        boolean z="true";
+        boolean z = true;
 
-        double v=0,5,
+        double v = 0.5d;
 
-        String NomeAluno="Joao"
+        String NomeAluno = "Joao";
 
-        int idade.aluno=18;
+        int idade_aluno= 18;
 
-        String Jõao;
+        String nome = "Jõao";
         
-        int Intenger=2;
+        int _Intenger =2;
 
-        double valor_pago=true;
+        boolean valor_pago=true;
 
-        int numero1=2,2;
+        double numero1 = 2.2d;
 
-        boolean _Valr=66
+        int _Valr = 66 ; 
 
-        Integer int = 10
+         int __Integer = 10;
         
-        char char = 'K'
+        char k = 'K' ;
         
-        char char;
+        char c = 'c';
         
-        Doubles salario.
+        double salario = 1000.0d;
         
-        String MEU_NOME = 'Esse é o meu nome'
+        String MEU_NOME = "Esse é o meu nome";
         
-        public long numeroDaConta = 123456789123456789;    
+        double numeroDaConta = 123456789123456789d ;    
     }
 }
