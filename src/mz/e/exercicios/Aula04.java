@@ -48,7 +48,7 @@ public class Aula04 {
         
         char cha = 'K';
         
-        char char;
+        char charr = 'm';
         
         Doubles salario.
         
