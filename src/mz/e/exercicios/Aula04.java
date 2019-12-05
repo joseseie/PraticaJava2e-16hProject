@@ -18,11 +18,11 @@ public class Aula04 {
 
         int numero=1;
 
-        String nomeUM ="nomeUm"; //Por melhorar
+        String nomeUM ="nomeUm"; 
 
         float x=02;
 
-        String z="nome";   // VAriavel X ja foi definida por isso troquei
+        String z="nome";   
 
         String abcom ="site";
 
@@ -38,13 +38,13 @@ public class Aula04 {
         String Jõao; 
         Jõao =" Nome Completo"; //Por melhorar
         
-        int Intenger=2;
+        int Intenger=2; //por melhorar
 
-        double valor_pago=1;
+        double valor_pago=1; //por melhorar
 
         int numero1=22;
 
-        boolean estado=true;  //Por melhorar
+        boolean estado=true; 
 
         int integer = 10;
         
@@ -57,6 +57,6 @@ public class Aula04 {
         String MEU_NOME ;
              MEU_NOME   = "Esse é o meu nome";  //Por melhorar
         
-         long numeroDaConta = 1234789;    
+         long numeroDaConta = 1234789123456789;    
     }
 }
