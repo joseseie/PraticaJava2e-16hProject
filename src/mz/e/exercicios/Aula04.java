@@ -36,7 +36,7 @@ public class Aula04 {
 
         String Jõao = ("Nome do Aluno");  //Por melhorar
         
-        int valor=2;   //por melhorar
+        int valor=2;   
 
         double valor_pago=1; //por melhorar
 
@@ -54,6 +54,6 @@ public class Aula04 {
         
         String MEU_NOME = ("Joao");          //Por melhorar
         
-         long numeroDaConta = 1234789123;    
+        public long numeroDaConta = 1234789123456789;    
     }
 }
