@@ -18,42 +18,42 @@ public class Aula04 {
 
         int numero = 1;
 
-        String um = "um";
+        String um = "um"; //por melhorar
 
         float x = 0.2f;
 
         String y = "nome";
 
-        String _ab_com = "site";
+        String _ab_com = "site"; //por melhorar
 
         boolean z = true;
 
         double v = 0.5d;
 
-        String NomeAluno = "Joao";
+        String NomeAluno = "Joao"; //por melhorar
 
-        int idade_aluno= 18;
+        int idade_aluno= 18; //por melhorar
 
         String nome = "Jõao";
         
-        int _Intenger =2;
+        int _Intenger =2; //por melhorar
 
-        boolean valor_pago=true;
+        boolean valor_pago=true; //por melhorar
 
         double numero1 = 2.2d;
 
-        int _Valr = 66 ; 
+        int _Valr = 66 ; //por melhorar
 
-         int __Integer = 10;
+         int __Integer = 10; //por melhorar
         
         char k = 'K' ;
         
         char c = 'c';
         
-        double salario = 1000.0d;
+        double salario = 1000.0d; //por melhorar
         
-        String MEU_NOME = "Esse é o meu nome";
+        String MEU_NOME = "Esse é o meu nome"; //por melhorar
         
-        double numeroDaConta = 123456789123456789d ;    
+        double numeroDaConta = 123456789123456789d ; //por melhorar
     }
 }
