@@ -11,6 +11,8 @@ package mz.e.exercicios;
  * @author Moisés Matsinhe
  */
 public class Aula04 {
+    public static long conta ; //por melhorar
+     
     
     public static void main(String[] args) {
         // 1. Analise as declaracoes e inicializacoess de variavies a baixo e faca alguma correcao se necessario
@@ -30,7 +32,7 @@ public class Aula04 {
 
         double v = 0.5d;
 
-        String NomeProprio = "Joao"; //por melhorar
+        String nome2 = "Joao"; //por melhorar
 
         int idade = 18; 
 
@@ -54,6 +56,7 @@ public class Aula04 {
         
         String mensagem = "Esse é o meu nome"; 
         
-        public long conta = 123456789123456789d ; //por melhorar
+        conta = 123456789123456789L ; //por melhorar
+        
     }
 }
