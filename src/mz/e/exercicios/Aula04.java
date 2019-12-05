@@ -40,9 +40,9 @@ public class Aula04 {
 
         double valor_pago=1;
 
-        int numero1=2,2;
+        int numero1=22;
 
-        boolean _Valr=66
+        boolean Valr=true;
 
         Integer int = 10
         
