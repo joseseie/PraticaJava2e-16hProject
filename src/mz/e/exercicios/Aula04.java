@@ -22,7 +22,7 @@ public class Aula04 {
 
         float x=02;
 
-        string x='nome';
+        String z="nome";   // VAriavel X ja foi definida por isso troquei
 
         string .ab.com ="site";
 
