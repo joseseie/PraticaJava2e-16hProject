@@ -10,50 +10,51 @@ package mz.e.exercicios;
  * @author Adriano Uaeca
  * @author Moisés Matsinhe
  */
-public class Aula04 {
+public class Aula04 {     
     
     public static void main(String[] args) {
         // 1. Analise as declaracoes e inicializacoess de variavies a baixo e faca alguma correcao se necessario
 
 
-        int numero="um";
+        int numero = 1;
 
-        string 1 ="um";
+        String numero2 = "um"; 
 
-        float x="0.2":
+        float x = 0.2f;
 
-        string x='nome';
+        String y = "nome";
 
-        string .ab.com ="site";
+        String abcom = "site"; 
 
-        boolean z="true";
+        boolean z = true;
 
-        double v=0,5,
+        double v = 0.5d;
 
-        String NomeAluno="Joao"
+        String nome2 = "Joao"; 
 
-        int idade.aluno=18;
+        int idade = 18; 
 
-        String Jõao;
+        String nome = "Jõao";
         
-        int Intenger=2;
+        int numero3 =2; 
 
-        double valor_pago=true;
+        boolean pagou = true;
 
-        int numero1=2,2;
+        double numero1 = 2.2; 
 
-        boolean _Valr=66
+        int valor = 66 ; 
 
-        Integer int = 10
+         int numero4 = 10; 
         
-        char char = 'K'
+        char k = 'K' ;
         
-        char char;
+        char c = 'c';
         
-        Doubles salario.
+        double salario = 1000.0; 
         
-        String MEU_NOME = 'Esse é o meu nome'
+        String mensagem = "Esse é o meu nome"; 
         
-        public long numeroDaConta = 123456789123456789;    
+        long conta = 123456789123456789L ; 
+        
     }
 }
