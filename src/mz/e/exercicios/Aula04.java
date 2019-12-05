@@ -18,7 +18,7 @@ public class Aula04 {
 
         int numero = 1;
 
-        String numero2 = "um"; //por melhorar
+        String numero2 = "um"; 
 
         float x = 0.2f;
 
@@ -36,21 +36,21 @@ public class Aula04 {
 
         String nome = "Jõao";
         
-        int numero3 =2; //por melhorar
+        int numero3 =2; 
 
-        boolean pagou = true; //por melhorar
+        boolean pagou = true;
 
-        double numero1 = 2.2d;
+        double numero1 = 2.2d; 
 
-        int valor = 66 ; //por melhorar
+        int valor = 66 ; 
 
-         int numero4 = 10; //por melhorar
+         int numero4 = 10; 
         
         char k = 'K' ;
         
         char c = 'c';
         
-        double salario = 1000.0d; //por melhorar
+        double salario = 1000.0d; 
         
         String MeuNome = "Esse é o meu nome"; //por melhorar
         
