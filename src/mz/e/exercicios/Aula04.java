@@ -24,15 +24,15 @@ public class Aula04 {
 
         String y = "nome";
 
-        String WebSite = "site"; //por melhorar
+        String abcom = "site"; //por melhorar
 
         boolean z = true;
 
         double v = 0.5d;
 
-        String NomeDoAluno = "Joao"; //por melhorar
+        String NomeProprio = "Joao"; //por melhorar
 
-        int IdadeDoAluno = 18; //por melhorar
+        int idade = 18; //por melhorar
 
         String nome = "Jõao";
         
@@ -52,8 +52,8 @@ public class Aula04 {
         
         double salario = 1000.0d; 
         
-        String MeuNome = "Esse é o meu nome"; //por melhorar
+        String mensagem = "Esse é o meu nome"; //por melhorar
         
-        double NumeroDaConta = 123456789123456789d ; //por melhorar
+        double conta = 123456789123456789d ; //por melhorar
     }
 }
