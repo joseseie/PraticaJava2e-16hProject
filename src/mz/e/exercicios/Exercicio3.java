@@ -13,14 +13,29 @@ import java.io.*;
  */
 public class Exercicio3 {
     
-    public static void main(String args [])
+    public static void main(String args []) throws IOException
     {
         BufferedReader x= new BufferedReader(new InputStreamReader(System.in));
         
         String nome;
+        String ocupacao;
+        int ano;
         
          System.out.println("Por favor escreva o seu nome:");
-        
+         nome= x.readLine();
+         
+         System.out.println("Qual e' a sua ocupacao?");
+         ocupacao= x.readLine();
+         
+         System.out.println("Qual e' o seu ano de nascimento?");
+         ano= Integer.parseInt(x.readLine());
+         
+         
+         System.out.println("O nome do uutilizador e':" +nome);
+         System.out.println("A ocupacao do" +nome+ "e':" +ocupacao);
+         System.out.println("O ano do nascimento e':" +ano);
+         
+         
          
          
          
