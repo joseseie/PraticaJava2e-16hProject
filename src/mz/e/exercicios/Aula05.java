@@ -36,7 +36,7 @@ public class Aula05 {
     6.	Faça um programa que leia dois números e imprima a sua soma
     
     7.	Faça um programa que leia os valores A e B. Mostre uma mensagem que informe se a soma
-    de A com B.
+    de A com B e igual a A.
     
     8.	Desenvolva um programa que leia um número inteiro e imprima o seu antecessor e seu sucessor.
     
