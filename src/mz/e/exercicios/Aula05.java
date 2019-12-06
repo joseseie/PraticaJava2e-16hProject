@@ -27,7 +27,7 @@ public class Aula05 {
     
     3.	Escreva um pequeno programa que peça o seu nome, sua ocupação e ano de nascimento. Em seguida, 
         imprima na tela as 2 informações a seguir:
-                Eu chamo me xxxxx de idade xxxxx anos de idade, estudante de xxxxx.
+                Eu chamo me xxxxx,  sou xxxxx e tenho xxxxx anos de idade.
     
     4.	Faça um programa que leia o seu nome e imprima em tela
     
