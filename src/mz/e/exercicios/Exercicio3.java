@@ -5,10 +5,25 @@
  */
 package mz.e.exercicios;
 
+import java.io.*;
+
 /**
  *
  * @author Mutole
  */
 public class Exercicio3 {
+    
+    public static void main(String args [])
+    {
+        BufferedReader x= new BufferedReader(new InputStreamReader(System.in));
+        
+        String nome;
+        
+         System.out.println("Por favor escreva o seu nome:");
+        
+         
+         
+         
+    }
     
 }
