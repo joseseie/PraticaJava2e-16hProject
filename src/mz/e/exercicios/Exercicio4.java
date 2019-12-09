@@ -19,5 +19,7 @@ public class Exercicio4 {
         
         System.out.println("Escrreva o seu nome:");
         nome= x.readLine();
+        
+        System.out.println("O seu nome e':" +nome);
     }
 }
