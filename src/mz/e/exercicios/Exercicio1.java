@@ -16,7 +16,9 @@ public class Exercicio1 {
     
     public static void main(String args [])
     {
-        System.out.println("Ola Mundo!! " + "\n" + "efraimemutole26@gmail.com" +"\n"+ "" +"\n"+ "Seja bem vindo ao curso de Java Intesivo");
+        System.out.println("Ola Mundo!! ");
+        System.out.println("CV: #940\n");
+        System.out.println("Seja bem vindo ao curso de Java Intesivo");
     }
     // O código funciona mas é necessário melhorar, pois podes imprimir as mensagens usando 1 única linha.    
 }
