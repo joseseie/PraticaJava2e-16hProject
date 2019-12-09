@@ -21,5 +21,5 @@ public class Exercicio1 {
         System.out.println("");
         System.out.println("Seja bem vindo ao curso de Java Intesivo");
     }
-    
+    // O código funciona mas é necessário melhorar, pois podes imprimir as mensagens usando 1 única linha.    
 }
