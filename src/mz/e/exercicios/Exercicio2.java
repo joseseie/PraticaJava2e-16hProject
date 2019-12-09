@@ -19,12 +19,12 @@ public class Exercicio2 {
     {
         //DECLARACOES DAS VARIAVEIS
         byte n1= 8, n2=90;
-        int produto= n1*n2;
+        int produto= n1*n2; //Por melhorar
         
         byte n3= 30;
-        float quo= n2/n3;
+        float quo= n2/n3;//Por melhorar
         
-        byte qua= 9*9;
+        byte qua= 9*9;//Por melhorar
         
        System.out.println("Seja bem vindo ao meu programa");
         
