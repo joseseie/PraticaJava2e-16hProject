@@ -9,3 +9,8 @@ Repositóro da turma das 16h do curso de Java II edição.
 * Adriano Uaeca Jr - https://github.com/uaeca-jr
 * Aly Macome https://github.com/macome
 * Efraime Mutole - https://github.com/mutole
+
+### Tutores:
+
+* José Seie
+* Filipe Mangue
