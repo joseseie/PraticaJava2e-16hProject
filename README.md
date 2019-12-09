@@ -1,3 +1,6 @@
 # PraticaJava2e-16hProject
 
 Repositóro da turma das 16h do curso de Java II edição.
+
+### Estudantes:
+* José Seie - https://github.com/joseseie
