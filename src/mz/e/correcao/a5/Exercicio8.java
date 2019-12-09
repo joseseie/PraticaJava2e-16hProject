@@ -1,7 +1,7 @@
 /*a
  Desenvolva um programa que leia um número inteiro e imprima o seu antecessor e seu sucessor.
  */
-package mz.e.exercicios;
+package mz.e.correcao.a5;
 
 import java.io.*;
 public class Exercicio8 {

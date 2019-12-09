@@ -2,7 +2,7 @@
 
 	Informar um saldo e imprimir o saldo com o aumento de 1%.
  */
-package mz.e.exercicios;
+package mz.e.correcao.a5;
 
 import java.io.*;
 

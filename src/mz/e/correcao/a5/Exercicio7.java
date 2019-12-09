@@ -3,9 +3,20 @@
     de A com B.
 
  */
-package mz.e.exercicios;
+package mz.e.correcao.a5;
 
 import java.io.*;
+
+/**
+ *
+ * @author Mutole
+ * @author Filipe Mangue
+ * @author José Seie
+ * @author Aly Macome
+ * @author Adriano Uaeca
+ * @author Valter Massango
+ * 
+ */
 public class Exercicio7 {
  
     public static void main(String args []) throws IOException

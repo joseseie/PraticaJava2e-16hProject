@@ -3,7 +3,7 @@
         imprima na tela as 2 informações a seguir:
                 Eu chamo me xxxxx de idade xxxxx anos de idade, estudante de xxxxx.
  */
-package mz.e.exercicios;
+package mz.e.correcao.a5;
 
 import java.io.*;
 

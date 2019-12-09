@@ -4,7 +4,7 @@
     
 
  */
-package mz.e.exercicios;
+package mz.e.correcao.a5;
 
 import java.io.*;
 

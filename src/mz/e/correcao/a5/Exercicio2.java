@@ -7,11 +7,17 @@
     Cada frase e seu resultado devem estar na mesma linha.
     
  */
-package mz.e.exercicios;
+package mz.e.correcao.a5;
 
 /**
  *
  * @author Mutole
+ * @author Filipe Mangue
+ * @author José Seie
+ * @author Aly Macome
+ * @author Adriano Uaeca
+ * @author Valter Massango
+ * 
  */
 public class Exercicio2 {
     

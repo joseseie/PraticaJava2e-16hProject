@@ -2,7 +2,7 @@
  
 4.	Faça um programa que leia o seu nome e imprima em tela
  */
-package mz.e.exercicios;
+package mz.e.correcao.a5;
 
 import java.io.*;
 

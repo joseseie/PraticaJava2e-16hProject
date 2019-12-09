@@ -1,7 +1,7 @@
 /*
  	Faça um programa em leia seu nome e apelido e imprima o seu nome completo
  */
-package mz.e.exercicios;
+package mz.e.correcao.a5;
 
 import java.io.*;
 

@@ -4,7 +4,7 @@
         O aluno deve informar seu nome e as três notas da matéria.
     
  */
-package mz.e.exercicios;
+package mz.e.correcao.a5;
 
 import java.io.*;
 

@@ -6,11 +6,17 @@
         Depois de imprimir a linha em branco, escreva na tela a seguinte frase:
         "Seja bem-vindo ao curso de Java Básico Intensivo"
  */
-package mz.e.exercicios;
+package mz.e.correcao.a5;
 
 /**
  *
  * @author Mutole
+ * @author Filipe Mangue
+ * @author José Seie
+ * @author Aly Macome
+ * @author Adriano Uaeca
+ * @author Valter Massango
+ * 
  */
 public class Exercicio1 {
     

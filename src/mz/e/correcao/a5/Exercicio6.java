@@ -2,7 +2,7 @@
    6.	Faça um programa que leia dois números e imprima a sua soma
    
  */
-package mz.e.exercicios;
+package mz.e.correcao.a5;
 
 import java.io.*;
 
