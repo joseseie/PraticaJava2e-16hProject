@@ -14,8 +14,10 @@ public class Exercicio8 {
         System.out.println("Introduza um numero:");
         nu= Integer.parseInt(x.readLine());
         
-        int ant= nu-1; //Melhorar, separar declaracao de variaveis das operacoes
-        int su= nu+1;  //Melhorar, separar declaracao de variaveis das operacoes
+        int ant;
+        ant= nu-1; //Melhorar, separar declaracao de variaveis das operacoes
+        int su;
+        su= nu+1;  //Melhorar, separar declaracao de variaveis das operacoes
         
         System.out.println("O numero que voce digitou foi:" +nu);
         System.out.println("O antecessor do numero que voce colocou e':" +ant );
