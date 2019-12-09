@@ -18,6 +18,10 @@ public class Exercicio7 {
         
         System.out.println("Introduza o valor de B:");
         b= Byte.parseByte(x.readLine());
-        
+       byte s= (byte) (a+b);
+       
+        if(s==a){
+            System.out.println("A soma dos valores de A e B e' igual a ao Valor de a que e':"      +s+       "e os valores de A e B sao:" +a+     "e:"   +b);
+        }else System.out.println("O valor da soma de A com B nao e' igual ao valor de A");
     }
 }
