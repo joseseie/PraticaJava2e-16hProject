@@ -34,7 +34,7 @@ public class Exercicio3 {
          System.out.println("O nome do uutilizador e':" +nome);
          System.out.println("A ocupacao do" +nome+ "e':" +ocupacao);
          System.out.println("O ano do nascimento e':" +ano);
-         
+         //Melhorar a impressao do texto segundo o que vem no exercicio, e deve imprimir a idade nao ano de nascimento.
          
          
          
