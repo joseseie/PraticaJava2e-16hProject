@@ -19,8 +19,8 @@ public class Exercicio5 {
         System.out.println("Qual e' o seu apelido?");
         apelido= x.readLine();
         
-        System.out.println("O seu nome e':" +nome);
-        System.out.println("O seu apelido e':" +apelido);
+        System.out.println(""+ "O seu nome e':" +nome                 +apelido);
+        // Melhorar, deve imprimir nome completo e nao as duas coisa separadas
         
     }
     

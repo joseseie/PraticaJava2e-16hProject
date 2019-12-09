@@ -12,13 +12,13 @@ public class Exercicio7 {
     {
         BufferedReader x= new BufferedReader(new InputStreamReader(System.in));
         
-        byte a, b;
+        byte a, b, s;
         System.out.println("Introduza o valor de A:");
         a=Byte.parseByte(x.readLine());
         
         System.out.println("Introduza o valor de B:");
         b= Byte.parseByte(x.readLine());
-       byte s= (byte) (a+b);
+        s= (byte) (a+b);
        
         if(s==a){
             System.out.println("A soma dos valores de A e B e' igual a ao Valor de a que e':"      +s+       "e os valores de A e B sao:" +a+     "e:"   +b);

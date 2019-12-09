@@ -19,7 +19,7 @@ public class Exercicio3 {
         
         String nome;
         String ocupacao;
-        int ano;
+        int ano, idade;
         
          System.out.println("Por favor escreva o seu nome:");
          nome= x.readLine();
@@ -30,11 +30,12 @@ public class Exercicio3 {
          System.out.println("Qual e' o seu ano de nascimento?");
          ano= Integer.parseInt(x.readLine());
          
+         idade= 2019-ano;
          
          System.out.println("O nome do uutilizador e':" +nome);
-         System.out.println("A ocupacao do" +nome+ "e':" +ocupacao);
-         System.out.println("O ano do nascimento e':" +ano);
-         
+         System.out.println("A ocupacao do utilizador e':" +ocupacao);
+         System.out.println("A sua idade  e':" +idade);
+         //Melhorar a impressao do texto segundo o que vem no exercicio, e deve imprimir a idade nao ano de nascimento.
          
          
          
