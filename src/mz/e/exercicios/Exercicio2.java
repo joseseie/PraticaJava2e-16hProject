@@ -36,6 +36,7 @@ public class Exercicio2 {
        
        System.out.println("O quadrado do numero 9 e':" +qua);
        
+       // TPC: Calcular o quadrado usando a classe Math de java.
         
         
     }
