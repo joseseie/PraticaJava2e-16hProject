@@ -21,6 +21,7 @@ public class Exercicio5 {
         
         System.out.println("O seu nome e':" +nome);
         System.out.println("O seu apelido e':" +apelido);
+        // Melhorar, deve imprimir nome completo e nao as duas coisa separadas
         
     }
     
