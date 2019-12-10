@@ -153,15 +153,31 @@ public class Aula06 {
           }
         
         // 13) 
-       /* System.out.println ("" + 0 += 10);
-        System.out.println ("" + 10 -= 10);
-        System.out.println ("" + 4 *== 50);
+       /* byte n1=10, n2=10, n3;
+        n3=(byte)(n1-n2);
+        //System.out.println ("O numero do n e':" + 0 += 10);
+        System.out.println ("O numero do n e':"+n1);
+        
+        //System.out.println ("" + 10 -= 10);
+        System.out.println ("O resultado da subtracao de n1 por n2 e'" +n3);
+        
+        byte n4=4, n5=50; float n6;
+        // 4*n6= 50  logo n6= 50/4; 
+         n6=n4/n5;
+        //System.out.println ("" + 4 *== 50);
+        System.out.println ("O resultado do quociente de 50 por 4 e':" +n6);
+        
+        byte n7= 30, n8=11; float n9;
+        //n9 +30/ =11
+        n9= 
         System.out.println ("" + 30 /= 11);
+        
         System.out.println ("Eu tenho 15 anos");
+        
         System.out.println ("" + 30 x &= 3);
         System.out.println ("" + 310 |*= 121);
-        System.out.println ("", 3 |= 112);
-               */
+        System.out.println ("", 3 |= 112);*/
+              
     }
     
 }
