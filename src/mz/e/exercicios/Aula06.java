@@ -1,6 +1,8 @@
 
 package mz.e.exercicios;
 
+import java.util.Scanner;
+
 /**
  *
  * @author joseseie
@@ -13,127 +15,150 @@ package mz.e.exercicios;
  */
 public class Aula06 {
     
-    public static void main(String[] args)
+    //public static void main(String[] args)
             
     public static void main(String[] args) {
         
         // Exercícios. Atenção, depois de resolver todos os erros nesta classe. Execute a mesma para ver se está tudo a funcionar como deve ser.
         
         //01)
-        for (int i =0; i <> 10; i++) {
-             int i = 0
+        for(int i =0; i < 10; i++){
+             System.out.println(i);
         }
         
         // 02)
-        foreach (int i =0; i< 10; i++) {
-             int i = 0;
-             innt dar = 0;
+         for(int i =0; i< 10; i++) {
+             int dar = i;
+             System.out.println(dar);
         }
         
         // 03) 
-        switch(expression) {
-            case x:
+        
+        System.out.println("Por favor introduza um carater, x, y ou outro");
+        Scanner holder = new Scanner(System.in);
+        
+        String caracter = holder.nextLine();
+        
+        String expression = caracter;
+            
+        switch(expression){
+            case "x":
               // code block
               break;
-            case y:
+            case "y":
               // code block
               break;
             default:
               // code block
+               break;
         }
         
        //04)
-       switch (variable or an integer expression)
-        {
-             case constant:
+              System.out.println("Por favor introduza um numero inteiro, 1, 2 ou outro");
+        Scanner holder2 = new Scanner(System.in);
+        
+        int numero = holder2.nextInt();
+        
+        int choice = numero;
+            
+       
+       switch(choice){
+             case 1:
              //Java code
-             ;
-             case constant:
+             break;
+             case 2:
              //Java code
-             ;
+             break;
              default:
              //Java code
-             ;
-        },
+             break;
+        }
         
         // 05)
-        if (20 >>> 18) {
+        if (20 > 18) {
            System.out.println("20 is greater than 18");
-        },
+        }
         
         // 06)
-        int xx = 20
-        int yxy = 18;
+        int x = 20;
+        int y = 18;
         if (x > y) {
           System.out.println("x is greater than y");
         }
         
         // 07) 
-        if (condition) {
-            block of code to be executed if the condition is true
+        
+        int a = 20;
+        int b = 10;
+        
+        if (a > b) {
+            System.out.println("a e maior que b");
         } else {
-            block of code to be executed if the condition is false
+            System.out.println("a nao e maior que b");
         }
         
         // 08)
         int time = 22;
-        if (time <! 10) {
-          System.out.println(Good morning.);
+        if (time < 10) {
+          System.out.println("Good morning.");
         } else if (time < 20) {
-          System.outls.println(Good day.);
+          System.out.println("Good day.");
         } else {
-          System.outls.print(Good evening.);
+          System.out.println("Good evening.");
         }
         // Outputs "Good evening."
         
         // 09)
         int i = 0;
-        whilesOrEquanto (iij < 5) {
+        while(i < 5) {
           System.out.println(i);
-          ii++;
+          i++;
         }
-        int i = 0;
-        whilesOrEquanto (iij > 5) {
+        int j = 10;
+        while(j > 5) {
           System.out.println(i);
-          ii---;
+          j--;
         }
         
-        while (condition) {
-            code block to be executed
-            System.out.println("Olá Mundo!!");     
+        int k = 0;
+        while (k < 2) {
+            //code block to be executed
+            System.out.println("Olá Mundo!!");  
+            k++;
         }
+        
         
         // 10)
+        int l = 0;
         do {
             System.err.println("Cuidado o computador vai estragar!!!");
+            l++;
         }
-        while (truet);
+        while (l < 3);
         
         // 11) Coloque o que falta
-        (i < 6) {
+        for(i =0; i < 6; i++) {
             System.out.println(i); 
-
-          ;
         }
         
         // 12) Indique a condição de paragem
-        for (int i = 0; i < 10;) {
-            if (i == 5) {   
+        for (int m = 0; m < 10;m++) {
+            if (m == 5) {   
 
-                ; //parar o loop
+                System.out.println("A condicao de paragem e: m = 10");; //parar o loop
             }
             System.out.println(i);
           }
         
         // 13) 
-        System.out.println ("" + 0 += 10);
-        System.out.println ("" + 10 -= 10);
-        System.out.println ("" + 4 *== 50);
-        System.out.println ("" + 30 /= 11);
-        System.out.println ("Eu tenho", 15 anos);
-        System.out.println ("" + 30 x &= 3);
-        System.out.println ("" + 310 |*= 121);
-        System.out.println ("", 3 |= 112);
+        System.out.println("" + (0+10));
+        System.out.println("" + (10-10));
+        System.out.println("" + (4*50));
+        System.out.println("" + (30/11));
+        System.out.println("Eu tenho" + 15+ " anos");
+        System.out.println("" + (30*3));
+        System.out.println ("" + (310 * 121));
+        System.out.println (""+ (3/ 112));
     }
     
 }
