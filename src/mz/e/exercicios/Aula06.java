@@ -153,7 +153,7 @@ public class Aula06 {
           }
         
         // 13) 
-       /* byte n1=10, n2=10, n3;
+       byte n1=10, n2=10, n3;
         n3=(byte)(n1-n2);
         //System.out.println ("O numero do n e':" + 0 += 10);
         System.out.println ("O numero do n e':"+n1);
@@ -161,23 +161,39 @@ public class Aula06 {
         //System.out.println ("" + 10 -= 10);
         System.out.println ("O resultado da subtracao de n1 por n2 e'" +n3);
         
-        byte n4=4, n5=50; float n6;
+        
+        float n6;
+        byte n4=4, n5=50;
         // 4*n6= 50  logo n6= 50/4; 
          n6=n4/n5;
         //System.out.println ("" + 4 *== 50);
         System.out.println ("O resultado do quociente de 50 por 4 e':" +n6);
         
         byte n7= 30, n8=11; float n9;
-        //n9 +30/ =11
-        n9= 
-        System.out.println ("" + 30 /= 11);
+        //+30/n9 =11        byte n4=4, n5=50; float n6;
+
+        //n9=11*30
+        n9= n8*n7;
+        //System.out.println ("" + 30 /= 11);
+        System.out.println("O resulatado da expressao: + 30 /n9= 11 e':" +n9);
         
         System.out.println ("Eu tenho 15 anos");
         
-        System.out.println ("" + 30 x &= 3);
+        byte n10=30, n11=3; float n12;
+        // 30*n12= 3; n12= 3/30;
+        n12= n10/n11;
+       // System.out.println ("" + 30 x &= 3);
+        System.out.println("O Reultado da expressao + 30 x &= 3 e':" +n12);
+        
+        
+        /*
+                float n13=310, n14= 121, n15;
+        
         System.out.println ("" + 310 |*= 121);
-        System.out.println ("", 3 |= 112);*/
-              
+        
+        
+        System.out.println ("", 3 |= 112);
+        */      
     }
     
 }
