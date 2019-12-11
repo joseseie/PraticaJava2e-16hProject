@@ -20,120 +20,135 @@ public class Aula06 {
         // Exercícios. Atenção, depois de resolver todos os erros nesta classe. Execute a mesma para ver se está tudo a funcionar como deve ser.
         
         //01)
-        for (int i =0; i <> 10; i++) {
-             int i = 0
+        for (int i =0; i > 10; i++) {
+          
         }
         
         // 02)
-        foreach (int i =0; i< 10; i++) {
-             int i = 0;
-             innt dar = 0;
+        for (int i =0; i< 10; i++) {
+            
+             int dar = 0;
         }
         
         // 03) 
-        switch(expression) {
-            case x:
-              // code block
+        char sexo = 'z';
+        switch(sexo) {
+            case 'x':
+                System.out.println("Mascolino");
+              
               break;
-            case y:
-              // code block
+            case 'y':
+              
+                System.out.println("Femenino");
               break;
             default:
-              // code block
+              
+                System.out.println("outro");
         }
         
        //04)
-       switch (variable or an integer expression)
+       int day = 6;
+       switch (day)
         {
-             case constant:
-             //Java code
+             case 6:
+             
+                 System.out.println("Meu aniversario");
              ;
-             case constant:
-             //Java code
+             case 7:
+            
+                 System.out.println("Ontei foi meu aniversario");
              ;
              default:
-             //Java code
+             
+                 System.out.println("Ainda nao e meu aniversario");
              ;
-        },
+        }
         
         // 05)
-        if (20 >>> 18) {
+        if (20 > 18) {
            System.out.println("20 is greater than 18");
-        },
+        }
         
         // 06)
-        int xx = 20
-        int yxy = 18;
+        int x = 20;
+        int y = 18;
         if (x > y) {
           System.out.println("x is greater than y");
         }
         
         // 07) 
-        if (condition) {
-            block of code to be executed if the condition is true
+        if (x < y) {
+            
+            System.out.println("y e maior que x");
         } else {
-            block of code to be executed if the condition is false
+            
+            System.out.println("x e maior que y");
         }
         
         // 08)
         int time = 22;
-        if (time <! 10) {
-          System.out.println(Good morning.);
+        if (time < 10) {
+          System.out.println("Good morning.");
         } else if (time < 20) {
-          System.outls.println(Good day.);
+          System.out.println("Good day.");
         } else {
-          System.outls.print(Good evening.);
+          System.out.print("Good evening.");
         }
         // Outputs "Good evening."
         
         // 09)
         int i = 0;
-        whilesOrEquanto (iij < 5) {
+        while(i < 5) {
           System.out.println(i);
-          ii++;
+          i++;
         }
-        int i = 0;
-        whilesOrEquanto (iij > 5) {
+        int j = 0;
+        while (j > 5) {
           System.out.println(i);
-          ii---;
+          i--;
         }
         
-        while (condition) {
-            code block to be executed
-            System.out.println("Olá Mundo!!");     
+        int a = 2;
+        int b = 4;
+        while (a < b ) {
+            //code block to be executed
+            System.out.println("Olá Mundo!!"); 
+            break;
         }
         
         // 10)
         do {
             System.err.println("Cuidado o computador vai estragar!!!");
+            break;
         }
-        while (truet);
+        while (true);
+            
         
         // 11) Coloque o que falta
-        (i < 6) {
+        if (i < 6) {
             System.out.println(i); 
 
-          ;
+          
         }
         
         // 12) Indique a condição de paragem
-        for (int i = 0; i < 10;) {
-            if (i == 5) {   
+        for (int k = 0; k < 10; k++) {
+            if (k == 5) {   
 
-                ; //parar o loop
+                break; //parar o loop
             }
-            System.out.println(i);
+            System.out.println(k);
           }
         
         // 13) 
-        System.out.println ("" + 0 += 10);
-        System.out.println ("" + 10 -= 10);
-        System.out.println ("" + 4 *== 50);
-        System.out.println ("" + 30 /= 11);
-        System.out.println ("Eu tenho", 15 anos);
-        System.out.println ("" + 30 x &= 3);
-        System.out.println ("" + 310 |*= 121);
-        System.out.println ("", 3 |= 112);
+        System.out.println ("");
+        System.out.println ("");
+        System.out.println ("" );
+        System.out.println ("" );
+        System.out.println ("Eu tenho, 15 anos");
+        System.out.println ("");
+        System.out.println ("");
+        System.out.println ("");
     }
     
 }
