@@ -7,6 +7,12 @@ import java.util.Scanner;
 /**
  *
  * @author joseseie
+ * @author Filipe Mangue
+ * @author Horcha Chambule
+ * @author Valter Massango
+ * @author Aly Macome
+ * @author Efraime Mutola
+ * 
  */
 public class Correcao01 {
     
