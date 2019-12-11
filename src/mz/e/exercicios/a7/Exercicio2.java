@@ -34,6 +34,21 @@ public class Exercicio2 {
         
         return valores;
     }
+    
+    
+    public static void visualizar(float[] val) throws IOException
+    {
+        byte op=0;
+        int i=0;
+        do
+        {
+            System.out.println("Digite a posicao dio numero(1-10): ");
+            op = a((byte)1,(byte)10);
+            System.out.println("Numero da posiscao "+op+": "+val[op-1]);
+            i++;
+        }while(i<10);
+    }
+    
     public static void main(String args []) throws IOException
     {
        /*BufferedReader x= new BufferedReader(new InputStreamReader(System.in));
@@ -52,19 +67,6 @@ public class Exercicio2 {
         
         float[] valores = criararry((byte)10);
         visualizar(valores);
-    }
-    
-    public static void visualizar(float[] val) throws IOException
-    {
-        byte op=0;
-        int i=0;
-        do
-        {
-            System.out.println("Digite a posicao dio numero(1-10): ");
-            op = a((byte)1,(byte)10);
-            System.out.println("Numero da posiscao "+op+": "+val[op-1]);
-            i++;
-        }while(i<10);
     }
     
   }

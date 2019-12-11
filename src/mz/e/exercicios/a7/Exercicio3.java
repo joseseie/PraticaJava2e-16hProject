@@ -23,9 +23,52 @@ public class Exercicio3 {
                 }
         return vectorA;  
     }
-    public static void main(String args []) throws IOException
+    
+    public static int[] b(int y) throws IOException
+    {
+        BufferedReader t= new BufferedReader(new InputStreamReader(System.in));
+        
+        int [] vectorB = new int[y];
+        for(int j= (int)0; j<y; j++)
+        {
+            System.out.println("Introduza o" +(j+1)+ "* valor");
+            vectorB[j] = Integer.parseInt(t.readLine());
+        }
+        return vectorB;
+    }
+    
+    /*public static void cal( int vectorA, int vectorB) throws IOException
+    {
+        BufferedReader t= new BufferedReader(new InputStreamReader(System.in));
+        
+        int [] vectorC= new int[2];
+        for(int k=0; k<vectorC.length; k++)
+        {
+            vectorC[k] = vectorA + vectorB;
+            
+            System.out.println("OS valores do vector c e':" +vectorC);
+            
+        }
+        
+        
+    }*/
+     public static void main(String args []) throws IOException
+     {
+         
+     }
+    public static void main(String args [],int vectorA, int vectorB ) throws IOException
     {
         
+       BufferedReader t= new BufferedReader(new InputStreamReader(System.in));
+        
+        int [] vectorC= new int[2];
+        for(int k=0; k<vectorC.length; k++)
+        {
+            vectorC[k] = vectorA + vectorB;
+            
+            System.out.println("OS valores do vector c e':" +vectorC);
+            
+        }
         
     }
     
