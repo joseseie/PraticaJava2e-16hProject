@@ -6,6 +6,8 @@
 
 package mz.e.exercicios;
 
+import jdk.nashorn.internal.ir.WhileNode;
+
 /**
  * Crie uma classe Lâmpada cujos atributos são: cor, estado, tipo, voltagem, grau
  * de luminosidade (de 0 a 100)
@@ -79,9 +81,11 @@ public class Lampada {
         System.out.println("A lampada esta desligada");
                 
     }
-    public void estado(){
+    public void apagada(){
+        System.out.println("Luz desligado");
+           }
+ public void acender(){
         System.out.println("Luz Ligado");
            }
-    
 
 }
