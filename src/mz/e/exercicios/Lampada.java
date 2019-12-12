@@ -11,10 +11,62 @@ package mz.e.exercicios;
  * de luminosidade (de 0 a 100)
  */
 public class Lampada {
-    String cor;
-    String estado;
-    String tipo;
-    String voltagem;
-    int luminosidade;
+    private String cor;
+    private String estado;
+    private String tipo;
+    private String voltagem;
+    private int luminosidade;
+
+    public Lampada() {
+    }
+
+    public Lampada(String cor, String estado, String tipo, String voltagem, int luminosidade) {
+        this.cor = cor;
+        this.estado = estado;
+        this.tipo = tipo;
+        this.voltagem = voltagem;
+        this.luminosidade = luminosidade;
+    }
+
+    public int getLuminosidade() {
+        return luminosidade;
+    }
+
+    public void setLuminosidade(int luminosidade) {
+        this.luminosidade = luminosidade;
+    }
+
+    public String getCor() {
+        return cor;
+    }
+
+    public void setCor(String cor) {
+        this.cor = cor;
+    }
+
+    public String getEstado() {
+        return estado;
+    }
+
+    public void setEstado(String estado) {
+        this.estado = estado;
+    }
+
+    public String getTipo() {
+        return tipo;
+    }
+
+    public void setTipo(String tipo) {
+        this.tipo = tipo;
+    }
+
+    public String getVoltagem() {
+        return voltagem;
+    }
+
+    public void setVoltagem(String voltagem) {
+        this.voltagem = voltagem;
+    }
+    
 
 }
