@@ -14,7 +14,7 @@ import jdk.nashorn.internal.ir.WhileNode;
  */
 public class Lampada {
     private String cor;
-    private String estado;
+    private String estado= "Apagado";
     private String tipo;
     private String voltagem;
     private int luminosidade;
@@ -81,11 +81,8 @@ public class Lampada {
         System.out.println("A lampada esta desligada");
                 
     }
-    public void apagada(){
-        System.out.println("Luz desligado");
-           }
- public void acender(){
-        System.out.println("Luz Ligado");
-           }
+
+           
 
 }
+
