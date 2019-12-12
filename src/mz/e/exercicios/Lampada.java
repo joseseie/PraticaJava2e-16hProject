@@ -77,7 +77,11 @@ public class Lampada {
     }
     public void desligar(){
         System.out.println("A lampada esta desligada");
-        
+                
     }
+    public void estado(){
+        System.out.println("Luz Ligado");
+           }
+    
 
 }
