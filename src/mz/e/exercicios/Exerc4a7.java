@@ -18,21 +18,16 @@ public class Exerc4a7 {
     */
     public static void main(String[] args) {
         
-        String paises[] = {"Mocambique","Angola",};
+        String paises[] = {"Mocambique","Angola" ,"Cabo Verde"};
         
-        String copiaPaises [] = new String[2];
+        String copiaPaises [] = new String[3];
+        
+        int k =0;
         
         for (int i = 0; i < paises.length; i++) {
-            
-            for (int j = 0; j < copiaPaises.length; j++) {
-                
-                copiaPaises[j] = paises[i];
-                
-                
-                //melhorar so mostra o ultimo elemento do array paises 
-                
-               
-            }
+           
+            copiaPaises[k++] = paises[i];
+                       
               
         }
               System.out.println("Array copia : " + Arrays.toString(copiaPaises));
