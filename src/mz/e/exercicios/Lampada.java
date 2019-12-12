@@ -67,6 +67,11 @@ public class Lampada {
     public void setVoltagem(String voltagem) {
         this.voltagem = voltagem;
     }
+
+    @Override
+    public String toString() {
+        return "Lampada{" + "cor=" + cor + ", estado=" + estado + ", tipo=" + tipo + ", voltagem=" + voltagem + ", luminosidade=" + luminosidade + '}';
+    }
     
 
 }
