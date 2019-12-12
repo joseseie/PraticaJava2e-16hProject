@@ -72,6 +72,12 @@ public class Lampada {
     public String toString() {
         return "Lampada{" + "cor=" + cor + ", estado=" + estado + ", tipo=" + tipo + ", voltagem=" + voltagem + ", luminosidade=" + luminosidade + '}';
     }
-    
+    public void ligar(){
+        System.out.println("A lampada esta ligada!");        
+    }
+    public void desligar(){
+        System.out.println("A lampada esta desligada");
+        
+    }
 
 }
