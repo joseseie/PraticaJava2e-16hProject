@@ -16,8 +16,8 @@ public class Aula08 {
     
     public static void main(String[] args) {
         
-        List l = new List();
-        ArrayList<String> al = new ArrayList<>(5);
+       ArrayList<String> List = new ArrayList<>();
+        ArrayList<String> al = new ArrayList<>();
         Vector v = new Vector(5, 5);
         
         // a)
@@ -33,10 +33,10 @@ public class Aula08 {
         l.clean();
         
         // e)
-        ArrayList<init> ss;
+        ArrayList<String> ss = new ArrayList<>();
         
         // f)
-        ss.add('Teste');
+        ss.add("Teste");
         
         // g)
         lista.addicionar();
