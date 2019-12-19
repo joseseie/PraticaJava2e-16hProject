@@ -15,7 +15,7 @@ funde (isto é, não pode ligar ou desligar mais).
  
  */
 package lampada;
-
+import java.io.*;
 /**
  *
  * @author Mutole
@@ -25,11 +25,35 @@ public class Lampada {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main(String[] args)throws IOException {
         // TODO code application logic here
-        Lampada1 lam= new Lampada1();
-        lam.setCor("VErmehlo");
-        lam.visualizacoes();
+        Lampada1 lam1= new Lampada1();
+        lam1.cor= "Azul";
+        lam1.estado= true;
+        lam1.luminosidade= 50;
+        lam1.tipo1= "grande";
+        lam1.tipo2= "pequeno";
+        lam1.voltagem1= 60;
+        lam1.voltagem2=6;
+        lam1.visualizacoes();
+        lam1.fundide();
+        lam1.ligar();
+        lam1.tipo(null, null);
+        lam1.voltagem();
+        
+        
+       /* Lampada1 lam2= new Lampada1();
+        lam2.cor= "Azul";
+        lam2.estado= true;
+        lam2.luminosidade= 50;
+        lam2.tipo= "Pequeno";
+        lam2.voltagem= 60;
+        lam2.visualizacoes();
+        */
+        
+        
+        
+      
     }
     
 }
