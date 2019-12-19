@@ -18,12 +18,15 @@ public class Exe3Agenda {
         Scanner d= new Scanner(System.in);
         // TODO code application logic here
        Agenda a= new Agenda();
-       a.setAgenda("compras");
+       a.valor();
+       a.dados();
        a.vi();
        
        Contacto c= new Contacto();
-       c.contactos();
-       c.vi();
+       c.numero();
+       c.receberContactos();
+       c.visualizar();
+       //c.vi();
     }
     
 }
